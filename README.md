@@ -1,6 +1,6 @@
 # 🎥 YT8K Downloader
 
-![Terminal UI](assets/screenshot.png)
+![Terminal UI](assets/logo.png)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/github/license/shoaibbshaikhh/yt8k_downloader)](LICENSE)
