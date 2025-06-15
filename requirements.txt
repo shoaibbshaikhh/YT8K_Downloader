@@ -1,0 +1,6 @@
+yt-dlp
+rich
+pyfiglet
+pyperclip
+requests
+pillow
