@@ -1,5 +1,7 @@
 # 🎥 YT8K Downloader
 
+![Terminal UI](assets/screenshot.png)
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/github/license/shoaibbshaikhh/yt8k_downloader)](LICENSE)
 
@@ -66,12 +68,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-
----
-
-## 🖥️ Screenshot
-
-![Terminal UI](assets/screenshot.png)
 
 ---
 
