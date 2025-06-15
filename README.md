@@ -3,7 +3,7 @@
 ![Terminal UI](assets/logo.png)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/shoaibbshaikhh/yt8k_downloader)](LICENSE)
+[![License](https://img.shields.io/github/license/shoaibbshaikhh/YT8K_Downloader)](LICENSE)
 
 A powerful terminal-based YouTube downloader built in Python that supports 8K/4K video, MP3 extraction, playlist downloads, auto-folder creation, and a beautiful CLI interface.
 
