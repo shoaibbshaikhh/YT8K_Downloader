@@ -1,4 +1,4 @@
-# 🎥 YT8K Downloader
+# 🎥 YT8K Downloader - YouTube Video 8K Downloader
 
 ![Terminal UI](assets/logo.png)
 
